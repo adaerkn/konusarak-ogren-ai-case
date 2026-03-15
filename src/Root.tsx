@@ -7,7 +7,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="KonusarakOgrenAd"
         component={MainVideo}
-        durationInFrames={1860} // Toplam süre 62 saniye (30fps) - Bekleme süresi eklendi
+        durationInFrames={1960} // Toplam süre 62 saniye (30fps) - Bekleme süresi eklendi
         fps={30}
         width={1080}
         height={1920}

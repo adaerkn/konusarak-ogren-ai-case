@@ -11,7 +11,7 @@ export const Scene7Trust: React.FC = () => {
   ];
 
   return (
-    <AbsoluteFill style={{ backgroundColor: '#FFFFFF', padding: '40px', display: 'flex', flexDirection: 'column' }}>
+    <AbsoluteFill style={{ backgroundColor: 'transparent', padding: '40px', display: 'flex', flexDirection: 'column' }}>
 
       {/* Başlık - Logo ile çakışmaması için padding eklendi */}
       <div style={{ marginTop: '140px', textAlign: 'center' }}>

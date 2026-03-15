@@ -13,7 +13,7 @@ export const Scene2Problem: React.FC = () => {
       {/* Online Ders Arayüzü Simülasyonu */}
       <div style={{ width: '90%', height: '400px', border: '4px solid #E2E8F0', borderRadius: '40px', backgroundColor: '#F8FAFC', position: 'relative', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', transform: `translateX(${glitch}px)`, overflow: 'hidden' }}>
         {/* Üst Bilgi Barı */}
-        <div style={{ position: 'absolute', top: 0, width: '100%', backgroundColor: '#3A85FF', padding: '10px', color: 'white', fontSize: '20px', fontWeight: 'bold' }}>
+        <div style={{ position: 'absolute', top: 0, width: '100%', backgroundColor: '#3A85FF', padding: '10px', color: 'white', fontSize: '30px', fontWeight: 'bold' }}>
           LIVE: Staj Mülakatı İngilizce Dersi #4
         </div>
         {/* Kesilen Görüntü Simgesi */}

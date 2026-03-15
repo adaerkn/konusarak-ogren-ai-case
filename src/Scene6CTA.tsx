@@ -48,7 +48,7 @@ export const Scene6CTA: React.FC = () => {
   alignItems: 'center',
   justifyContent: 'center',
   gap: '30px',
-  marginTop: '40px',
+  marginTop: '50px',
   transform: `scale(${s})`
 }}>
   <Img
